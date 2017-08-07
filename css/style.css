@@ -1,0 +1,12 @@
+body {
+  font-family: 'Source Code Pro', 'Monaco', 'Lucida Console', 'Courier New', monospace;
+  font-size: 12px;
+  background-color: #212121;
+  color: #FAFAFA;
+  padding: 70px;
+}
+
+a {
+  color: #FAFAFA;
+  text-decoration: none;
+}
